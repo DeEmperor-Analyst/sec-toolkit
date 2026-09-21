@@ -1,0 +1,15 @@
+www
+mail
+ftp
+admin
+test
+api
+dev
+blog
+shop
+secure
+vpn
+app
+m
+beta
+portal
